@@ -1,0 +1,21 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.colorTheme": "Atom One Dark",
+    "python.languageServer": "Pylance",
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "glassit.alpha": 255,
+    "window.zoomLevel": 1,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.lineNumbers": "on",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.donotVerifyTags": true
+}
